@@ -166,6 +166,7 @@ p{
 }
 
 #footer p{
+    adding-top: 30px;
     text-align: center;
     color: black;
 }
